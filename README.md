@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shinny22
-- 👀 I’m interested in programmation and cybersecurité
+- 👀 I’m interested in programmation and cybersecurity
 - 🌱 I’m currently learning sofware engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Nissi OYERE on linkedin
