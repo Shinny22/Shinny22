@@ -1,7 +1,50 @@
-- 👋 Hi, I’m Nissi OYERE @Shinny22
-- 👀 I’m interested in programmation and cybersecurity
-- 🌱 I’m currently learning sofware engineering and Data Analysis 
-- 💞️ I’m looking to collaborate on NutriGood
-- 📫 How to reach me Nissi OYERE(https://www.linkedin.com/in/nissi-oyere-a17554262/) on linkedin
-- 👀 My portfolio on https://dev-folio-rust.vercel.app
+Voici une version améliorée de ton **README GitHub** avec des éléments visuels et interactifs pour le rendre plus attractif aux yeux des entreprises :
+
+---
+
+# 👋 Hi, I’m **Nissi OYERE** (@Shinny22)  
+
+🚀 **Software Engineer | Data Science & Cybersecurity Enthusiast**  
+
+![Nissi's Logo](https://yourlogoURL.com/logo.png)  *(Tu peux ajouter un logo ici)*  
+
+## 👀 About Me  
+Passionate about **programming, data science, and cybersecurity**, I love building scalable applications and exploring innovative solutions. My goal is to create **impactful digital solutions** that improve people's lives.  
+
+🔹 Currently learning **Software Engineering** & **Data Analysis**  
+🔹 Working on **NutriGood**, an AI-powered nutrition app  
+🔹 Open to **collaborations** in AI, web development, and security  
+
+---
+
+## 🛠️ **Tech Stack**  
+💻 **Programming:** Python, JavaScript (React.js, Node.js), TypeScript  
+📊 **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn, Power BI  
+🔒 **Cybersecurity:** Network Security, Ethical Hacking, Encryption  
+🖌️ **UI/UX Design:** Figma, TailwindCSS  
+
+![Tech Stack](https://yourimageURL.com/tech-stack.png)  *(Une image animée ou statique de tes technologies)*  
+
+---
+
+## 🌍 **Projects & Portfolio**  
+🔹 **NutriGood App** – AI-powered nutrition analysis 📱 *(In Progress)*  
+🔹 **CFI-CIRAS Student Management System** – University registration system  
+🔹 **[My Portfolio](https://dev-folio-rust.vercel.app)** – Showcasing my work  
+
+![Project Preview](https://yourimageURL.com/project-preview.gif)  *(Ajoute une image animée ou un aperçu de ton projet ici)*  
+
+---
+
+## 📫 **Connect with Me**  
+🔗 **LinkedIn:** [Nissi OYERE](https://www.linkedin.com/in/nissi-oyere-a17554262/)  
+🌐 **GitHub:** [@Shinny22](https://github.com/Shinny22)  
+💼 **Portfolio:** [dev-folio-rust.vercel.app](https://dev-folio-rust.vercel.app)  
+
+![LinkedIn](https://yourimageURL.com/linkedin-icon.png) *(Ajoute des icônes sociales cliquables pour améliorer la navigation)*  
+
+---
+
+### 🚀 Let’s build something amazing together!  
+![Rocket Animation](https://yourimageURL.com/rocket-animation.gif) *(Ajoute une animation pour rendre la fin du README plus engageante)*  
 
