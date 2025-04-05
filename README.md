@@ -30,19 +30,16 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 🔹 **CFI-CIRAS Student Management System** – University registration system  
 🔹 **[My Portfolio](https://dev-folio-rust.vercel.app)** – Showcasing my work  
 
-![Project Preview](https://yourimageURL.com/project-preview.gif)  
 
----
 
 ## 📫 **Connect with Me**  
 🔗 **LinkedIn:** [Nissi OYERE](https://www.linkedin.com/in/nissi-oyere-a17554262/)  
 🌐 **GitHub:** [@Shinny22](https://github.com/Shinny22)  
 💼 **Portfolio:** [dev-folio-rust.vercel.app](https://dev-folio-rust.vercel.app)  
 
-![LinkedIn](https://yourimageURL.com/linkedin-icon.png)
 
----
+
 
 ### 🚀 Let’s build something amazing together!  
-![Rocket Animation](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?uid=R111906630&ga=GA1.1.217725652.1734553295&semt=ais_hybrid&w=740) 
+![Rocket Animation](https://img.freepik.com/premium-psd/3d-dashboard-web-data-analyst-financial-report-seo-marketing-laptop_582556-803.jpg?uid=R111906630&ga=GA1.1.217725652.1734553295&semt=ais_hybrid&w=740) 
 
