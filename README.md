@@ -20,8 +20,7 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 📊 **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn, Power BI  
 🔒 **Cybersecurity:** Network Security, Ethical Hacking, Encryption  
 🖌️ **UI/UX Design:** Figma, TailwindCSS  
-
-![Tech Stack]([https://yourimageURL.com/tech-stack.png](https://www.lummi.ai/3d/futuristic-tech-environment-2squ4))    
+  
 
 ---
 
@@ -38,8 +37,6 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 💼 **Portfolio:** [dev-folio-rust.vercel.app](https://dev-folio-rust.vercel.app)  
 
 
-
-
 ### 🚀 Let’s build something amazing together!  
-![Rocket Animation](https://img.freepik.com/premium-psd/3d-dashboard-web-data-analyst-financial-report-seo-marketing-laptop_582556-803.jpg?uid=R111906630&ga=GA1.1.217725652.1734553295&semt=ais_hybrid&w=740) 
+
 
