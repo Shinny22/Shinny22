@@ -4,7 +4,7 @@
 
 🚀 **Software Engineer | Data Science & Cybersecurity Enthusiast**  
 
-![Nissi's Logo](https://yourlogoURL.com/logo.png)   
+![Nissi's Logo](https://cdn-icons-png.freepik.com/256/11267/11267629.png?uid=R111906630&ga=GA1.1.217725652.1734553295&semt=ais_hybrid)   
 
 ## 👀 About Me  
 Passionate about **programming, data science, and cybersecurity**, I love building scalable applications and exploring innovative solutions. My goal is to create **impactful digital solutions** that improve people's lives.  
@@ -30,7 +30,7 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 🔹 **CFI-CIRAS Student Management System** – University registration system  
 🔹 **[My Portfolio](https://dev-folio-rust.vercel.app)** – Showcasing my work  
 
-![Project Preview](https://yourimageURL.com/project-preview.gif)  *(Ajoute une image animée ou un aperçu de ton projet ici)*  
+![Project Preview](https://yourimageURL.com/project-preview.gif)  
 
 ---
 
@@ -44,5 +44,5 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 ---
 
 ### 🚀 Let’s build something amazing together!  
-![Rocket Animation]([https://yourimageURL.com/rocket-animation.gif](https://www.lummi.ai/3d/minimalist-isometric-office-scene-0qkpb)) 
+![Rocket Animation](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?uid=R111906630&ga=GA1.1.217725652.1734553295&semt=ais_hybrid&w=740) 
 
