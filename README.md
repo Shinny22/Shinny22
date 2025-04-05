@@ -1,12 +1,10 @@
-Voici une version améliorée de ton **README GitHub** avec des éléments visuels et interactifs pour le rendre plus attractif aux yeux des entreprises :
 
----
 
 # 👋 Hi, I’m **Nissi OYERE** (@Shinny22)  
 
 🚀 **Software Engineer | Data Science & Cybersecurity Enthusiast**  
 
-![Nissi's Logo](https://yourlogoURL.com/logo.png)  *(Tu peux ajouter un logo ici)*  
+![Nissi's Logo](https://yourlogoURL.com/logo.png)   
 
 ## 👀 About Me  
 Passionate about **programming, data science, and cybersecurity**, I love building scalable applications and exploring innovative solutions. My goal is to create **impactful digital solutions** that improve people's lives.  
@@ -15,7 +13,7 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 🔹 Working on **NutriGood**, an AI-powered nutrition app  
 🔹 Open to **collaborations** in AI, web development, and security  
 
----
+
 
 ## 🛠️ **Tech Stack**  
 💻 **Programming:** Python, JavaScript (React.js, Node.js), TypeScript  
@@ -23,7 +21,7 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 🔒 **Cybersecurity:** Network Security, Ethical Hacking, Encryption  
 🖌️ **UI/UX Design:** Figma, TailwindCSS  
 
-![Tech Stack](https://yourimageURL.com/tech-stack.png)  *(Une image animée ou statique de tes technologies)*  
+![Tech Stack]([https://yourimageURL.com/tech-stack.png](https://www.lummi.ai/3d/futuristic-tech-environment-2squ4))    
 
 ---
 
@@ -41,10 +39,10 @@ Passionate about **programming, data science, and cybersecurity**, I love buildi
 🌐 **GitHub:** [@Shinny22](https://github.com/Shinny22)  
 💼 **Portfolio:** [dev-folio-rust.vercel.app](https://dev-folio-rust.vercel.app)  
 
-![LinkedIn](https://yourimageURL.com/linkedin-icon.png) *(Ajoute des icônes sociales cliquables pour améliorer la navigation)*  
+![LinkedIn](https://yourimageURL.com/linkedin-icon.png)
 
 ---
 
 ### 🚀 Let’s build something amazing together!  
-![Rocket Animation](https://yourimageURL.com/rocket-animation.gif) *(Ajoute une animation pour rendre la fin du README plus engageante)*  
+![Rocket Animation]([https://yourimageURL.com/rocket-animation.gif](https://www.lummi.ai/3d/minimalist-isometric-office-scene-0qkpb)) 
 
